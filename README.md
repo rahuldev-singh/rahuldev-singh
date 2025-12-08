@@ -46,15 +46,6 @@ Designed and deployed an ML classification model with proper preprocessing, eval
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  ![contribs](https://img.shields.io/badge/contributions-Check-blue)
-  ![followers](https://img.shields.io/github/followers/rahuldev-singh?label=Followers)
-</p>
-
-
----
-
 ## 🎯 What I’m Currently Working On  
 - Building **AI-powered automation tools**  
 - Exploring **RAG pipelines & LLM fine-tuning**  
