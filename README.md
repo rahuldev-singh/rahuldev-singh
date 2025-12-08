@@ -47,10 +47,15 @@ Designed and deployed an ML classification model with proper preprocessing, eval
 ---
 
 ## 📈 GitHub Stats  
+## 📈 GitHub Stats
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahuldev-singh&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev-singh&layout=compact&theme=tokyonight" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rahuldevnavinsingh&show_icons=true&theme=tokyonight" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldevnavinsingh&layout=compact&theme=tokyonight" />
+
 </p>
+
 
 ---
 
