@@ -69,7 +69,8 @@ Designed and deployed an ML classification model with proper preprocessing, eval
 
 ## 🌐 Connect With Me  
 - 💼 LinkedIn: *www.linkedin.com/in/rahuldev-navin-singh*  
-- 📧 Email: *rahuldevsingh2104@gmail.com*  
+- 📧 Email: *rahuldevsingh2104@gmail.com*
+- 📞 Contact No: *9724352918*
 ---
 
 ## ⭐ Thanks for visiting!  
