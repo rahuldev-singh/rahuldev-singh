@@ -48,10 +48,10 @@ Designed and deployed an ML classification model with proper preprocessing, eval
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterorgs-repo-projects.vercel.app/api?username=rahuldev-singh&show_icons=true&theme=tokyonight" />
-  
-  <img height="180" src="https://github-readme-stats-git-masterorgs-repo-projects.vercel.app/api/top-langs/?username=rahuldev-singh&layout=compact&theme=tokyonight" />
+  ![contribs](https://img.shields.io/badge/contributions-Check-blue)
+  ![followers](https://img.shields.io/github/followers/rahuldev-singh?label=Followers)
 </p>
+
 
 ---
 
